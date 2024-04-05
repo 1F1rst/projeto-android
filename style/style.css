@@ -199,10 +199,6 @@ aside>ul{
     padding: 30px;
 }
 
-aside abbr{
-    text-decoration: none;
-}
-
 footer{
     background-color: var(--cor3);
     padding: 6px;
